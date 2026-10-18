@@ -1,6 +1,5 @@
 {
-  "name": "teste-ab",
-  "version": "1.0.0",
+  "name": "teste-ab-vercel",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -9,12 +8,7 @@
   },
   "dependencies": {
     "next": "15.5.6",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0"
-  },
-  "devDependencies": {
-    "typescript": "^5.0.0",
-    "@types/node": "^20.0.0",
-    "@types/react": "^19.0.0"
+    "react": "19.1.1",
+    "react-dom": "19.1.1"
   }
 }
